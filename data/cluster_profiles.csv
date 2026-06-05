@@ -1,0 +1,7 @@
+Cluster,phq_score,gad_score,age,bmi,epworth_score,gender,count,PHQ_Severity,GAD_Severity,Profile_Name
+0,4.81,4.3,19.92,23.86,4.86,1.0,259,Mild,Mild,Low-Risk Male
+1,8.75,7.3,19.89,31.34,5.55,0.29,56,Mild,Mild,Obesity-Mild Distress
+2,10.13,10.98,19.73,22.22,8.61,0.2,167,Moderate,Moderate,Moderate Mixed+Sleep
+3,6.62,5.98,23.89,25.4,6.59,0.74,61,Mild,Mild,Older Adult Mild
+4,17.17,16.15,20.07,24.48,13.13,0.46,46,Severe,Severe,High-Risk Severe
+5,4.92,4.52,20.13,20.58,4.99,0.02,186,Mild,Mild,Low-Risk Female
